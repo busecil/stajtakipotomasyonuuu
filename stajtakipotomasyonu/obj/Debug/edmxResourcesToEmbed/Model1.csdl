@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="STAJOTOMASYONUModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Akademisyen">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ElemanAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Unvani" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="idariGörevi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="eposta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Bölümler" Relationship="Self.FK_Bölümler_Akademisyen" FromRole="Akademisyen" ToRole="Bölümler" />
+    <NavigationProperty Name="Programlar" Relationship="Self.FK_Programlar_Akademisyen" FromRole="Akademisyen" ToRole="Programlar" />
+    <NavigationProperty Name="Programlar1" Relationship="Self.FK_Programlar_Akademisyen1" FromRole="Akademisyen" ToRole="Programlar" />
+  </EntityType>
+  <EntityType Name="Bölümler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BolumAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KisaAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Baskan" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Akademisyen" Relationship="Self.FK_Bölümler_Akademisyen" FromRole="Bölümler" ToRole="Akademisyen" />
+    <NavigationProperty Name="Programlar" Relationship="Self.FK_Programlar_Bölümler" FromRole="Bölümler" ToRole="Programlar" />
+  </EntityType>
+  <EntityType Name="Liste">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OgrenciID" Type="Int32" />
+    <NavigationProperty Name="Öğrenciler" Relationship="Self.FK_Liste_Öğrenciler" FromRole="Liste" ToRole="Öğrenciler" />
+  </EntityType>
+  <EntityType Name="OkulAyar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="okulAdi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="ogretimYili" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="yariYili" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="stajSure" Type="Byte" />
+    <Property Name="baslamaTarihi" Type="DateTime" Precision="0" />
+    <Property Name="bitisTarihi" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="Öğrenciler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ogrenciNo" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="tcKimlikNo" Type="String" MaxLength="11" FixedLength="false" Unicode="true" />
+    <Property Name="adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="soyAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="cinsiyet" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="dogumYeri" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="dogumTarihi" Type="DateTime" Precision="0" />
+    <Property Name="programID" Type="Int32" />
+    <Property Name="sinifi" Type="Byte" />
+    <Property Name="telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="ikametAdresi" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="ikametAdresİl" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="ikametAdresİlce" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="eposta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="stajDurumu" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="stajSonuc" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="kimlikID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="anneAdi" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="babaAdi" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="uyrugu" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="kayitTarihi" Type="DateTime" Precision="0" />
+    <Property Name="kayitNedeni" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="cezaSayisi" Type="Byte" />
+    <Property Name="aktifDönemDersKayitSayisi" Type="Byte" />
+    <Property Name="medeniHali" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="mahalleKöy" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="ciltNo" Type="Int32" />
+    <Property Name="aileSiraNo" Type="Int32" />
+    <Property Name="siraNo" Type="Int32" />
+    <Property Name="nüfKayİl" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="nüfKayİlçe" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Liste" Relationship="Self.FK_Liste_Öğrenciler" FromRole="Öğrenciler" ToRole="Liste" />
+    <NavigationProperty Name="Programlar" Relationship="Self.FK_Öğrenciler_Programlar1" FromRole="Öğrenciler" ToRole="Programlar" />
+  </EntityType>
+  <EntityType Name="Programlar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProgramAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ProgramKisaAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BolumID" Type="Int32" />
+    <Property Name="DanismaniBir" Type="Int32" />
+    <Property Name="Danismaniki" Type="Int32" />
+    <NavigationProperty Name="Akademisyen" Relationship="Self.FK_Programlar_Akademisyen" FromRole="Programlar" ToRole="Akademisyen" />
+    <NavigationProperty Name="Akademisyen1" Relationship="Self.FK_Programlar_Akademisyen1" FromRole="Programlar" ToRole="Akademisyen" />
+    <NavigationProperty Name="Bölümler" Relationship="Self.FK_Programlar_Bölümler" FromRole="Programlar" ToRole="Bölümler" />
+    <NavigationProperty Name="Öğrenciler" Relationship="Self.FK_Öğrenciler_Programlar1" FromRole="Programlar" ToRole="Öğrenciler" />
+  </EntityType>
+  <EntityType Name="StajDevamTakip">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SiraNo" Type="Byte" />
+    <Property Name="Tarih" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="YazdırılacakSayfaSayıları">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StajBasvuruFormu" Type="Byte" />
+    <Property Name="İsverenBilgiFormu" Type="Byte" />
+    <Property Name="SigortalamaYazisi" Type="Byte" />
+    <Property Name="BosRaporSayfasi" Type="Byte" />
+    <Property Name="DevamTakipCizelgesi" Type="Byte" />
+    <Property Name="DegerlendirmeFormu" Type="Byte" />
+    <Property Name="Taahhütname" Type="Byte" />
+  </EntityType>
+  <Association Name="FK_Bölümler_Akademisyen">
+    <End Role="Akademisyen" Type="Self.Akademisyen" Multiplicity="1" />
+    <End Role="Bölümler" Type="Self.Bölümler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Akademisyen">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Bölümler">
+        <PropertyRef Name="Baskan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Programlar_Akademisyen">
+    <End Role="Akademisyen" Type="Self.Akademisyen" Multiplicity="0..1" />
+    <End Role="Programlar" Type="Self.Programlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Akademisyen">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Programlar">
+        <PropertyRef Name="DanismaniBir" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Programlar_Akademisyen1">
+    <End Role="Akademisyen" Type="Self.Akademisyen" Multiplicity="0..1" />
+    <End Role="Programlar" Type="Self.Programlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Akademisyen">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Programlar">
+        <PropertyRef Name="Danismaniki" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Programlar_Bölümler">
+    <End Role="Bölümler" Type="Self.Bölümler" Multiplicity="0..1" />
+    <End Role="Programlar" Type="Self.Programlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bölümler">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Programlar">
+        <PropertyRef Name="BolumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Liste_Öğrenciler">
+    <End Role="Öğrenciler" Type="Self.Öğrenciler" Multiplicity="0..1" />
+    <End Role="Liste" Type="Self.Liste" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Öğrenciler">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Liste">
+        <PropertyRef Name="OgrenciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Öğrenciler_Programlar1">
+    <End Role="Programlar" Type="Self.Programlar" Multiplicity="0..1" />
+    <End Role="Öğrenciler" Type="Self.Öğrenciler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Programlar">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Öğrenciler">
+        <PropertyRef Name="programID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="STAJOTOMASYONUEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Akademisyen" EntityType="Self.Akademisyen" />
+    <EntitySet Name="Bölümler" EntityType="Self.Bölümler" />
+    <EntitySet Name="Liste" EntityType="Self.Liste" />
+    <EntitySet Name="OkulAyar" EntityType="Self.OkulAyar" />
+    <EntitySet Name="Öğrenciler" EntityType="Self.Öğrenciler" />
+    <EntitySet Name="Programlar" EntityType="Self.Programlar" />
+    <EntitySet Name="StajDevamTakip" EntityType="Self.StajDevamTakip" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="YazdırılacakSayfaSayıları" EntityType="Self.YazdırılacakSayfaSayıları" />
+    <AssociationSet Name="FK_Bölümler_Akademisyen" Association="Self.FK_Bölümler_Akademisyen">
+      <End Role="Akademisyen" EntitySet="Akademisyen" />
+      <End Role="Bölümler" EntitySet="Bölümler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Programlar_Akademisyen" Association="Self.FK_Programlar_Akademisyen">
+      <End Role="Akademisyen" EntitySet="Akademisyen" />
+      <End Role="Programlar" EntitySet="Programlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Programlar_Akademisyen1" Association="Self.FK_Programlar_Akademisyen1">
+      <End Role="Akademisyen" EntitySet="Akademisyen" />
+      <End Role="Programlar" EntitySet="Programlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Programlar_Bölümler" Association="Self.FK_Programlar_Bölümler">
+      <End Role="Bölümler" EntitySet="Bölümler" />
+      <End Role="Programlar" EntitySet="Programlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Liste_Öğrenciler" Association="Self.FK_Liste_Öğrenciler">
+      <End Role="Öğrenciler" EntitySet="Öğrenciler" />
+      <End Role="Liste" EntitySet="Liste" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Öğrenciler_Programlar1" Association="Self.FK_Öğrenciler_Programlar1">
+      <End Role="Programlar" EntitySet="Programlar" />
+      <End Role="Öğrenciler" EntitySet="Öğrenciler" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(STAJOTOMASYONUModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(STAJOTOMASYONUModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

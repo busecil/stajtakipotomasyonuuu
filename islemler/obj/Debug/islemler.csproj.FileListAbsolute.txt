@@ -1,0 +1,2 @@
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\islemler\obj\Debug\islemler.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\islemler\obj\Debug\islemler.csproj.CoreCompileInputs.cache

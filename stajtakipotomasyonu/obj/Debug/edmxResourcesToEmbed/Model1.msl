@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="STAJOTOMASYONUModelStoreContainer" CdmEntityContainer="STAJOTOMASYONUEntities">
+    <EntitySetMapping Name="Akademisyen">
+      <EntityTypeMapping TypeName="IsTypeOf(STAJOTOMASYONUModel.Akademisyen)">
+        <MappingFragment StoreEntitySet="Akademisyen">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ElemanAdi" ColumnName="ElemanAdi" />
+          <ScalarProperty Name="Unvani" ColumnName="Unvani" />
+          <ScalarProperty Name="idariGörevi" ColumnName="idariGörevi" />
+          <ScalarProperty Name="eposta" ColumnName="eposta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bölümler">
+      <EntityTypeMapping TypeName="IsTypeOf(STAJOTOMASYONUModel.Bölümler)">
+        <MappingFragment StoreEntitySet="Bölümler">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="BolumAdi" ColumnName="BolumAdi" />
+          <ScalarProperty Name="KisaAdi" ColumnName="KisaAdi" />
+          <ScalarProperty Name="Baskan" ColumnName="Baskan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Liste">
+      <EntityTypeMapping TypeName="IsTypeOf(STAJOTOMASYONUModel.Liste)">
+        <MappingFragment StoreEntitySet="Liste">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="OgrenciID" ColumnName="OgrenciID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OkulAyar">
+      <EntityTypeMapping TypeName="IsTypeOf(STAJOTOMASYONUModel.OkulAyar)">
+        <MappingFragment StoreEntitySet="OkulAyar">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="okulAdi" ColumnName="okulAdi" />
+          <ScalarProperty Name="ogretimYili" ColumnName="ogretimYili" />
+          <ScalarProperty Name="yariYili" ColumnName="yariYili" />
+          <ScalarProperty Name="stajSure" ColumnName="stajSure" />
+          <ScalarProperty Name="baslamaTarihi" ColumnName="baslamaTarihi" />
+          <ScalarProperty Name="bitisTarihi" ColumnName="bitisTarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Öğrenciler">
+      <EntityTypeMapping TypeName="IsTypeOf(STAJOTOMASYONUModel.Öğrenciler)">
+        <MappingFragment StoreEntitySet="Öğrenciler">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ogrenciNo" ColumnName="ogrenciNo" />
+          <ScalarProperty Name="tcKimlikNo" ColumnName="tcKimlikNo" />
+          <ScalarProperty Name="adi" ColumnName="adi" />
+          <ScalarProperty Name="soyAdi" ColumnName="soyAdi" />
+          <ScalarProperty Name="cinsiyet" ColumnName="cinsiyet" />
+          <ScalarProperty Name="dogumYeri" ColumnName="dogumYeri" />
+          <ScalarProperty Name="dogumTarihi" ColumnName="dogumTarihi" />
+          <ScalarProperty Name="programID" ColumnName="programID" />
+          <ScalarProperty Name="sinifi" ColumnName="sinifi" />
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+          <ScalarProperty Name="ikametAdresi" ColumnName="ikametAdresi" />
+          <ScalarProperty Name="ikametAdresİl" ColumnName="ikametAdresİl" />
+          <ScalarProperty Name="ikametAdresİlce" ColumnName="ikametAdresİlce" />
+          <ScalarProperty Name="eposta" ColumnName="eposta" />
+          <ScalarProperty Name="stajDurumu" ColumnName="stajDurumu" />
+          <ScalarProperty Name="stajSonuc" ColumnName="stajSonuc" />
+          <ScalarProperty Name="kimlikID" ColumnName="kimlikID" />
+          <ScalarProperty Name="anneAdi" ColumnName="anneAdi" />
+          <ScalarProperty Name="babaAdi" ColumnName="babaAdi" />
+          <ScalarProperty Name="uyrugu" ColumnName="uyrugu" />
+          <ScalarProperty Name="kayitTarihi" ColumnName="kayitTarihi" />
+          <ScalarProperty Name="kayitNedeni" ColumnName="kayitNedeni" />
+          <ScalarProperty Name="cezaSayisi" ColumnName="cezaSayisi" />
+          <ScalarProperty Name="aktifDönemDersKayitSayisi" ColumnName="aktifDönemDersKayitSayisi" />
+          <ScalarProperty Name="medeniHali" ColumnName="medeniHali" />
+          <ScalarProperty Name="mahalleKöy" ColumnName="mahalleKöy" />
+          <ScalarProperty Name="ciltNo" ColumnName="ciltNo" />
+          <ScalarProperty Name="aileSiraNo" ColumnName="aileSiraNo" />
+          <ScalarProperty Name="siraNo" ColumnName="siraNo" />
+          <ScalarProperty Name="nüfKayİl" ColumnName="nüfKayİl" />
+          <ScalarProperty Name="nüfKayİlçe" ColumnName="nüfKayİlçe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Programlar">
+      <EntityTypeMapping TypeName="IsTypeOf(STAJOTOMASYONUModel.Programlar)">
+        <MappingFragment StoreEntitySet="Programlar">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ProgramAdi" ColumnName="ProgramAdi" />
+          <ScalarProperty Name="ProgramKisaAdi" ColumnName="ProgramKisaAdi" />
+          <ScalarProperty Name="BolumID" ColumnName="BolumID" />
+          <ScalarProperty Name="DanismaniBir" ColumnName="DanismaniBir" />
+          <ScalarProperty Name="Danismaniki" ColumnName="Danismaniki" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StajDevamTakip">
+      <EntityTypeMapping TypeName="IsTypeOf(STAJOTOMASYONUModel.StajDevamTakip)">
+        <MappingFragment StoreEntitySet="StajDevamTakip">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="SiraNo" ColumnName="SiraNo" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="IsTypeOf(STAJOTOMASYONUModel.sysdiagrams)">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="YazdırılacakSayfaSayıları">
+      <EntityTypeMapping TypeName="IsTypeOf(STAJOTOMASYONUModel.YazdırılacakSayfaSayıları)">
+        <MappingFragment StoreEntitySet="YazdırılacakSayfaSayıları">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="StajBasvuruFormu" ColumnName="StajBasvuruFormu" />
+          <ScalarProperty Name="İsverenBilgiFormu" ColumnName="İsverenBilgiFormu" />
+          <ScalarProperty Name="SigortalamaYazisi" ColumnName="SigortalamaYazisi" />
+          <ScalarProperty Name="BosRaporSayfasi" ColumnName="BosRaporSayfasi" />
+          <ScalarProperty Name="DevamTakipCizelgesi" ColumnName="DevamTakipCizelgesi" />
+          <ScalarProperty Name="DegerlendirmeFormu" ColumnName="DegerlendirmeFormu" />
+          <ScalarProperty Name="Taahhütname" ColumnName="Taahhütname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

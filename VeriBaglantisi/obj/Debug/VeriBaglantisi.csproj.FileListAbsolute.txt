@@ -1,0 +1,2 @@
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CoreCompileInputs.cache

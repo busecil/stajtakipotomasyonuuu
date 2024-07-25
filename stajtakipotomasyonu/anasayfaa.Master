@@ -1,0 +1,168 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="anasayfaa.master.cs" Inherits="StajTakipOtomasyonu.anasayfaa" %>
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staj Takip Otomasyonu</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        
+   /* Özel CSS Stilleri */
+        body {
+            font-family: "Lato", sans-serif;
+        }
+
+        .sidebar {
+            height: 100%;
+            width: 250px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #343a40; /* siyah */
+            padding-top: 20px;
+        }
+
+        .sidebar a {
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 18px;
+            color: #fff;
+            display: block;
+        }
+
+        .sidebar a:hover {
+            background-color: #ff6a00; /* gri tonu */
+        }
+
+        .content {
+            margin-left: 250px; /* Sidebar genişliği */
+            padding: 20px;
+        }
+
+        .sub-menu {
+            display: none;
+            padding-left: 20px;
+        }
+
+        .sub-menu.active {
+            display: block;
+        }
+
+        .navbar {
+            background-color: #343a40;
+        }
+
+        .navbar-brand,
+        .navbar-nav a {
+            color: #fff;
+        }
+
+        .navbar-brand img {
+            height: 40px; /* Logo yüksekliği */
+            margin-right: 10px;
+        }
+
+        .footer-nav {
+            background-color: #343a40;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        </style>
+    <script>
+        $(document).ready(function () {
+            $(".toggle-submenu").click(function () {
+                $(".sub-menu").removeClass("active");
+                $(this).next(".sub-menu").toggleClass("active");
+            });
+        });
+    </script>
+</head>
+<body>
+      <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+        <a class="navbar-brand" href="#">
+            
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Çıkış</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="sidebar">
+    <a href="#" class="toggle-submenu">
+     <center> <img src="stajj/images/logo.jpg" alt="" style="height: 80px; margin-right: 80px;"></center>
+ </a>
+    <a href="#" class="toggle-submenu">Ayarlar</a>
+   <div class="sub-menu">
+       <a href="GenelAyar.aspx" >
+    <span id="">Genel Ayarlar</span></a>
+
+      
+        <a href="Bolumler.aspx">
+      <span ıd="">Bölümler</span>
+       </a>
+      
+         <a href="Programlar.aspx">
+        <span ıd="">Programlar</span>
+        </a>
+
+         <a href="OgretimElemanlari.aspx">
+         <span ıd="">Öğretim Elemanları</span>
+         </a>
+
+        <a href="OgrenciIslemleri.aspx">
+        <span ıd="">Öğrenci İşlemleri</span>
+       </a>
+
+          <a href="YazdirilacakSayfaSayilari.aspx" >
+        <span id="">Yazdırılacak Sayfa Sayıları</span></a>
+
+   </div>
+   <a href="#" class="toggle-submenu">İşlemler</a>
+    <div class="sub-menu">
+     <a href="StajEvrakDuzenle.aspx">
+
+     <span ıd="">Staj Evrakları Düzenle</span>
+     </a>
+
+     <a href="OgrenciBelgesiDuzenle.aspx">
+    <span ıd="">Öğrenci Belgesi Düzenle</span>
+    </a>
+
+</div>
+   <a href="#" class="toggle-submenu">Raporlar</a>
+</div>
+
+<div class="content">
+</div>
+
+<nav class="footer-nav">
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         Malatya Turgut Özal Üniversitesi Bilgisayar Programcılığı <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         Esma Hatun Aktulum ~ Beyzagül Adaklı ~ Halide Paksoy ~ Neziha Yıldırım
+</nav>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    <div class="container">
+    </div>
+</asp:ContentPlaceHolder>
+</body>
+</html>

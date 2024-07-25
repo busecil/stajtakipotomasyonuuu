@@ -1,0 +1,354 @@
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll.config
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.pdb
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe.config
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.rsp
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe.config
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.rsp
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.AppContext.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Console.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Http.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.ValueTuple.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe.config
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.rsp
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.dll
+C:\Users\Esma\Desktop\GÖRSEL PROGRAMLAMA 2\StajTakipOtomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.pdb
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll.config
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.pdb
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe.config
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.rsp
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe.config
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.rsp
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.AppContext.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Console.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Http.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.ValueTuple.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe.config
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.rsp
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.dll
+C:\Users\Neziha\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.pdb
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll.config
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.pdb
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe.config
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.rsp
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe.config
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.rsp
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.AppContext.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Console.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Http.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.ValueTuple.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe.config
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.rsp
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.dll
+C:\Users\Neziha\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.rsp
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.rsp
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.AppContext.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Console.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Http.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.ValueTuple.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.rsp
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.pdb
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll.config
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.pdb
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.exe.config
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csc.rsp
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.exe.config
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\csi.rsp
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.AppContext.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Console.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Http.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.exe.config
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\vbc.rsp
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.dll
+C:\Users\Hp\Desktop\stajtakipotomasyonu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\StajTakipOtomasyonu.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\csc.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\csc.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\csc.rsp
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\csi.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\csi.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\csi.rsp
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.AppContext.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Console.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Net.Http.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.ValueTuple.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\vbc.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\vbc.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\vbc.rsp
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\StajTakipOtomasyonu\obj\Debug\StajTakipOtomasyonu.pdb

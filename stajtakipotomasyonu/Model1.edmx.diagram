@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2d9923f8e3ab4fdf90104f85efe4a382" Name="Diagram1">
+        <EntityTypeShape EntityType="STAJOTOMASYONUModel.Akademisyen" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="STAJOTOMASYONUModel.Bölümler" Width="1.5" PointX="3" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="STAJOTOMASYONUModel.Liste" Width="1.5" PointX="9.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="STAJOTOMASYONUModel.OkulAyar" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="STAJOTOMASYONUModel.Öğrenciler" Width="1.5" PointX="7.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="STAJOTOMASYONUModel.Programlar" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="STAJOTOMASYONUModel.StajDevamTakip" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="STAJOTOMASYONUModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="STAJOTOMASYONUModel.YazdırılacakSayfaSayıları" Width="1.5" PointX="2.75" PointY="7.75" IsExpanded="true" />
+        <AssociationConnector Association="STAJOTOMASYONUModel.FK_Bölümler_Akademisyen" ManuallyRouted="false" />
+        <AssociationConnector Association="STAJOTOMASYONUModel.FK_Programlar_Akademisyen" ManuallyRouted="false" />
+        <AssociationConnector Association="STAJOTOMASYONUModel.FK_Programlar_Akademisyen1" ManuallyRouted="false" />
+        <AssociationConnector Association="STAJOTOMASYONUModel.FK_Programlar_Bölümler" ManuallyRouted="false" />
+        <AssociationConnector Association="STAJOTOMASYONUModel.FK_Liste_Öğrenciler" ManuallyRouted="false" />
+        <AssociationConnector Association="STAJOTOMASYONUModel.FK_Öğrenciler_Programlar1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

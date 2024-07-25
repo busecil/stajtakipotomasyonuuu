@@ -1,0 +1,6 @@
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\InterFaceler\bin\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\InterFaceler\bin\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\InterFaceler\obj\Debug\InterFaceler.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\InterFaceler\obj\Debug\InterFaceler.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\InterFaceler\obj\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\4.Hafta\stajtakipotomasyonuuu\InterFaceler\obj\Debug\InterFaceler.pdb

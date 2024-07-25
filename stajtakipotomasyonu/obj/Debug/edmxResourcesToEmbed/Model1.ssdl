@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="STAJOTOMASYONUModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="STAJOTOMASYONUModelStoreContainer">
+    <EntitySet Name="Akademisyen" EntityType="STAJOTOMASYONUModel.Store.Akademisyen" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Bölümler" EntityType="STAJOTOMASYONUModel.Store.Bölümler" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Liste" EntityType="STAJOTOMASYONUModel.Store.Liste" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OkulAyar" EntityType="STAJOTOMASYONUModel.Store.OkulAyar" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Öğrenciler" EntityType="STAJOTOMASYONUModel.Store.Öğrenciler" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Programlar" EntityType="STAJOTOMASYONUModel.Store.Programlar" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="StajDevamTakip" EntityType="STAJOTOMASYONUModel.Store.StajDevamTakip" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="STAJOTOMASYONUModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="YazdırılacakSayfaSayıları" EntityType="STAJOTOMASYONUModel.Store.YazdırılacakSayfaSayıları" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Bölümler_Akademisyen" Association="STAJOTOMASYONUModel.Store.FK_Bölümler_Akademisyen">
+      <End Role="Akademisyen" EntitySet="Akademisyen" />
+      <End Role="Bölümler" EntitySet="Bölümler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Programlar_Akademisyen" Association="STAJOTOMASYONUModel.Store.FK_Programlar_Akademisyen">
+      <End Role="Akademisyen" EntitySet="Akademisyen" />
+      <End Role="Programlar" EntitySet="Programlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Programlar_Akademisyen1" Association="STAJOTOMASYONUModel.Store.FK_Programlar_Akademisyen1">
+      <End Role="Akademisyen" EntitySet="Akademisyen" />
+      <End Role="Programlar" EntitySet="Programlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Programlar_Bölümler" Association="STAJOTOMASYONUModel.Store.FK_Programlar_Bölümler">
+      <End Role="Bölümler" EntitySet="Bölümler" />
+      <End Role="Programlar" EntitySet="Programlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Liste_Öğrenciler" Association="STAJOTOMASYONUModel.Store.FK_Liste_Öğrenciler">
+      <End Role="Öğrenciler" EntitySet="Öğrenciler" />
+      <End Role="Liste" EntitySet="Liste" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Öğrenciler_Programlar1" Association="STAJOTOMASYONUModel.Store.FK_Öğrenciler_Programlar1">
+      <End Role="Programlar" EntitySet="Programlar" />
+      <End Role="Öğrenciler" EntitySet="Öğrenciler" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Akademisyen">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ElemanAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="Unvani" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="idariGörevi" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="eposta" Type="nvarchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Bölümler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BolumAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="KisaAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="Baskan" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Liste">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OgrenciID" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="OkulAyar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="okulAdi" Type="nvarchar" Nullable="true" MaxLength="100" />
+    <Property Name="ogretimYili" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="yariYili" Type="nvarchar" Nullable="true" MaxLength="10" />
+    <Property Name="stajSure" Type="tinyint" Nullable="true" />
+    <Property Name="baslamaTarihi" Type="datetime" Nullable="true" />
+    <Property Name="bitisTarihi" Type="datetime" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Öğrenciler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ogrenciNo" Type="nvarchar" Nullable="true" MaxLength="20" />
+    <Property Name="tcKimlikNo" Type="nvarchar" Nullable="true" MaxLength="11" />
+    <Property Name="adi" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="soyAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="cinsiyet" Type="nvarchar" Nullable="true" MaxLength="10" />
+    <Property Name="dogumYeri" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="dogumTarihi" Type="datetime" Nullable="true" />
+    <Property Name="programID" Type="int" Nullable="true" />
+    <Property Name="sinifi" Type="tinyint" Nullable="true" />
+    <Property Name="telefon" Type="nvarchar" Nullable="true" MaxLength="20" />
+    <Property Name="ikametAdresi" Type="nvarchar" Nullable="true" MaxLength="150" />
+    <Property Name="ikametAdresİl" Type="nvarchar" Nullable="true" MaxLength="30" />
+    <Property Name="ikametAdresİlce" Type="nvarchar" Nullable="true" MaxLength="30" />
+    <Property Name="eposta" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="stajDurumu" Type="nvarchar" Nullable="true" MaxLength="30" />
+    <Property Name="stajSonuc" Type="nvarchar" Nullable="true" MaxLength="30" />
+    <Property Name="kimlikID" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="anneAdi" Type="nvarchar" Nullable="true" MaxLength="30" />
+    <Property Name="babaAdi" Type="nvarchar" Nullable="true" MaxLength="30" />
+    <Property Name="uyrugu" Type="nvarchar" Nullable="true" MaxLength="30" />
+    <Property Name="kayitTarihi" Type="datetime" Nullable="true" />
+    <Property Name="kayitNedeni" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="cezaSayisi" Type="tinyint" Nullable="true" />
+    <Property Name="aktifDönemDersKayitSayisi" Type="tinyint" Nullable="true" />
+    <Property Name="medeniHali" Type="nchar" Nullable="true" MaxLength="10" />
+    <Property Name="mahalleKöy" Type="nchar" Nullable="true" MaxLength="50" />
+    <Property Name="ciltNo" Type="int" Nullable="true" />
+    <Property Name="aileSiraNo" Type="int" Nullable="true" />
+    <Property Name="siraNo" Type="int" Nullable="true" />
+    <Property Name="nüfKayİl" Type="nchar" Nullable="true" MaxLength="30" />
+    <Property Name="nüfKayİlçe" Type="nchar" Nullable="true" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Programlar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProgramAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="ProgramKisaAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="BolumID" Type="int" Nullable="true" />
+    <Property Name="DanismaniBir" Type="int" Nullable="true" />
+    <Property Name="Danismaniki" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="StajDevamTakip">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SiraNo" Type="tinyint" Nullable="true" />
+    <Property Name="Tarih" Type="datetime" Nullable="true" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" Nullable="true" />
+    <Property Name="definition" Type="varbinary(max)" Nullable="true" />
+  </EntityType>
+  <EntityType Name="YazdırılacakSayfaSayıları">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StajBasvuruFormu" Type="tinyint" Nullable="true" />
+    <Property Name="İsverenBilgiFormu" Type="tinyint" Nullable="true" />
+    <Property Name="SigortalamaYazisi" Type="tinyint" Nullable="true" />
+    <Property Name="BosRaporSayfasi" Type="tinyint" Nullable="true" />
+    <Property Name="DevamTakipCizelgesi" Type="tinyint" Nullable="true" />
+    <Property Name="DegerlendirmeFormu" Type="tinyint" Nullable="true" />
+    <Property Name="Taahhütname" Type="tinyint" Nullable="true" />
+  </EntityType>
+  <Association Name="FK_Bölümler_Akademisyen">
+    <End Role="Akademisyen" Type="STAJOTOMASYONUModel.Store.Akademisyen" Multiplicity="1" />
+    <End Role="Bölümler" Type="STAJOTOMASYONUModel.Store.Bölümler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Akademisyen">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Bölümler">
+        <PropertyRef Name="Baskan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Programlar_Akademisyen">
+    <End Role="Akademisyen" Type="STAJOTOMASYONUModel.Store.Akademisyen" Multiplicity="0..1" />
+    <End Role="Programlar" Type="STAJOTOMASYONUModel.Store.Programlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Akademisyen">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Programlar">
+        <PropertyRef Name="DanismaniBir" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Programlar_Akademisyen1">
+    <End Role="Akademisyen" Type="STAJOTOMASYONUModel.Store.Akademisyen" Multiplicity="0..1" />
+    <End Role="Programlar" Type="STAJOTOMASYONUModel.Store.Programlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Akademisyen">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Programlar">
+        <PropertyRef Name="Danismaniki" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Programlar_Bölümler">
+    <End Role="Bölümler" Type="STAJOTOMASYONUModel.Store.Bölümler" Multiplicity="0..1" />
+    <End Role="Programlar" Type="STAJOTOMASYONUModel.Store.Programlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bölümler">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Programlar">
+        <PropertyRef Name="BolumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Liste_Öğrenciler">
+    <End Role="Öğrenciler" Type="STAJOTOMASYONUModel.Store.Öğrenciler" Multiplicity="0..1" />
+    <End Role="Liste" Type="STAJOTOMASYONUModel.Store.Liste" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Öğrenciler">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Liste">
+        <PropertyRef Name="OgrenciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Öğrenciler_Programlar1">
+    <End Role="Programlar" Type="STAJOTOMASYONUModel.Store.Programlar" Multiplicity="0..1" />
+    <End Role="Öğrenciler" Type="STAJOTOMASYONUModel.Store.Öğrenciler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Programlar">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Öğrenciler">
+        <PropertyRef Name="programID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
